@@ -5,4 +5,4 @@ It does not recognize the difference between filtered and closed ports.
 
 # Usage
 
-Easy to use : PortScanner.py &lt;"Ip-address" "Starting Port" "Ending Port"
+Easy to use : PortScanner.py &lt;Ip-address&gt; &lt;Starting Port&gt; &lt;Ending Port&gt;
